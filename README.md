@@ -4,9 +4,9 @@ Image Processing API is node js api used for resizing images and saving them in 
 
 ## Usage
  
-add your desired images into the full folder found in the assets folder and visit this endpoint for resizing images ([/api/images/]http://localhost:3000/api/images) and provide filename, width and height at the end of the end point, as follows ?filename=(file name)&width=(desired width)&height=(desired height)
+add your desired images into the full folder found in the assets folder and visit this endpoint for resizing images [/api/images/](http://localhost:3000/api/images) and provide filename, width and height at the end of the end point, as follows ?filename=(file name)&width=(desired width)&height=(desired height)
 
-e.g. ([http://localhost:3000/api/images?filename=fjord&width=300&height=3000]http://localhost:3000/api/images?filename=fjord&width=300&height=3000)
+e.g. [http://localhost:3000/api/images?filename=fjord&width=300&height=3000](http://localhost:3000/api/images?filename=fjord&width=300&height=3000)
 
 ## valid query arguments
 
