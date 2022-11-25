@@ -1,0 +1,6 @@
+/node_modules
+/**/*.js
+/assets/thumbs
+/assets/full
+/dist
+/build
