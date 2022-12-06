@@ -8,7 +8,7 @@ add your desired images into the full folder found in the assets folder and visi
 
 e.g. [http://localhost:3000/api/images?filename=fjord&width=300&height=3000](http://localhost:3000/api/images?filename=fjord&width=300&height=3000)
 
-## valid query arguments
+## Valid Query Arguments
 
 ### Width and Height should be positive numbers
 
